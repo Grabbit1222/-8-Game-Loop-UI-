@@ -1,68 +1,8 @@
-# 빌드 아티팩트
-*.obj
-*.exe
-*.pdb
-*.ilk
-*.idb
-*.lib
-*.dll
-*.exp
-*.log
-*.suo
-*.sdf
-*.ipch
-*.vcxproj.user
-*.tlog
-*.lastbuildstate
-
-# 빌드 폴더
-[Bb]uild/
-[Dd]ebug*/
-[Rr]elease*/
-x64/
-x86/
-ipch/
-out/
-
-# Visual Studio 관련 설정 및 임시 파일
-.vs/
-
-# Visual Studio 관련 설정 파일
-.vscode/
-*.vcxproj.*
-*.user
-*.filters
-
-# CMake 관련 파일
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
-# 기타 임시 파일
-*.tmp
-*.log
-*.obj
-*.o
-*.i
-*.gch
-*.pch
-*.class
-*.vscode/
-*.code-workspace
-
-# Windows 특정 파일
-Thumbs.db
-ehthumbs.db
-desktop.ini
-$RECYCLE.BIN/
-
-# 시스템 파일
-.DS_Store
-
-
 # Visual Studio 2015 user specific files
 .vs/
+
+# Jetbrain Rider specific files
+.idea/
 
 # Compiled Object files
 *.slo
